@@ -1,0 +1,82 @@
+// .section1 {
+//   height: 100vh;
+//   width: 100%;
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   align-items: center;
+//   position: relative; // Ensure this is relative so the video and other content is positioned correctly
+//   top: 0;
+//   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+
+//   .video-background {
+//     object-fit: cover;
+//     width: 100%;
+//     height: 100vh;
+//     position: fixed;
+//     z-index: -1; // Ensure the video is behind everything
+//     max-width: 1915px;
+//   }
+
+//   .h-1 {
+//     position: absolute;
+//     z-index: 99;
+//     color: #e9d2ba;
+//     top: 409px;
+//     left: 203px;
+//     font-size: 60px;
+//     line-height: 56px;
+
+//     @media screen and (max-width: 1700px) {
+//       top: 369px;
+//       left: 160px;
+//     }
+//     @media screen and (max-width: 1440px) {
+//       top: 380px;
+//       left: 123px;
+//     }
+//     @media screen and (max-width: 1560px) {
+//       top: 381px;
+//       left: 118px;
+//     }
+//     @media screen and (max-width: 1280px) {
+//       top: 301px;
+//       left: 99px;
+//     }
+//     @media screen and (max-width: 1080px) {
+//       top: 250px;
+//       left: 70px;
+//     }
+//   }
+
+  // .buttons {
+  //   position: absolute;
+  //   z-index: 99;
+  //   background-color: #e5e5e6;
+  //   color: #000;
+  //   padding: 17px 35px;
+  //   left: 204px;
+  //   top: 610px;
+
+//     @media screen and (max-width: 1700px) {
+//       top: 572px;
+//       left: 163px;
+//     }
+//     @media screen and (max-width: 1440px) {
+//       top: 409px;
+//       left: 203px;
+//     }
+//     @media screen and (max-width: 1560px) {
+//       top: 585px;
+//       left: 121px;
+//     }
+//     @media screen and (max-width: 1280px) {
+//       top: 500px;
+//       left: 102px;
+//     }
+//     @media screen and (max-width: 1080px) {
+//       top: 446px;
+//       left: 73px;
+//     }
+//   }
+// }
